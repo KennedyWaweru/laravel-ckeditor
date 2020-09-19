@@ -50,4 +50,4 @@ Or if you want to initiate by jQuery selector :
 
 ## File Uploader Integration
 
- Instead of using KCFinder, we recommend [laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) for the file uploader integration for better laravel user access control and specific per user folders.
+ Instead of using CKFinder, we recommend [laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) for the file uploader integration for better laravel user access control and specific per user folders.
